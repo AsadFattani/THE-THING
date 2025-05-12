@@ -3,6 +3,7 @@
 - Omer Shahid: 24K-0855
 - Asad Imran: 24K-0721
 - Affan Rasheed: 24K-0579
+
 Submission Date: April 24, 2025
 ### 1. Executive Summary
 ####  Overview: This project implements a 2D side-scrolling game inspired by the classic "Dino Game." The game uses Object-Oriented Programming (OOP) principles and SFML (Simple and Fast Multimedia Library) for graphics, audio, and input handling. The main tasks included designing game mechanics, implementing player interactions, and creating a visually appealing interface.
